@@ -24,3 +24,4 @@ For those prefer video guides, [Vez3d](https://www.youtube.com/channel/UCEZr0_vw
 See the constribution instructions:   
 [contributing.md](docs/contributing.md)
 
+# This repository is based on this one https://github.com/mainsail-crew/moonraker-timelapse
