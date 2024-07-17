@@ -47,7 +47,8 @@ Advanced Settings -> Gcode -> Layer Change Gcode -> ``TIMELAPSE_TAKE_FRAME``
 ##   a User only need [timelapse] in their configuration.
 #output_path: ~/timelapse/
 ##   Directory where the generated video will be saved
-#frame_path: /tmp/timelapse/
+##   IF YOU WILL BE USING KLIPPER_CAMERA_WATCHDOG, THE FRAME PATH MUST BE THIS
+frame_path: ~/klipper-camera-watchdog/Image-files/
 ##   Directory where the temporary frames are saved
 #ffmpeg_binary_path: /usr/bin/ffmpeg
 ##   Directory where ffmpeg is installed
